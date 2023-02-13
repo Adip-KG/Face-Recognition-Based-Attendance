@@ -1,5 +1,7 @@
 # Face-Recognition-Based-Attendance
-Attendance system which marks whether or not a student/person is present or not by recognising their face from a trained single-label image classification model. This is then updated in a Google Sheet along with the time the person was detected at. The model was trained using Teachable Machine by Google and run on Google Colab.
+Attendance system which marks whether or not a student/person is present or not by recognising their face from a trained single-label image classification model.
+This is then updated in a Google Sheet along with the time the person was detected at.
+The model was trained using Teachable Machine by Google and run on Google Colab.
 
 ## Instructions to use
 1. Open the Google Colab link [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Fle54xIao8d3hNJHYgmAgJHZaSzgYarQ#scrollTo=QMMJKYRVwpYt)
